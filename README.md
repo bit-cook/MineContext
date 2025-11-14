@@ -26,7 +26,7 @@ An open-source, proactive context-aware AI partner, dedicated to bringing clarit
 
 🌍 Join our [Discord Group](https://discord.gg/tGj7RQ3nUR)
 
-<a href="https://github.com/volcengine/MineContext/releases/download/0.1.4/MineContext-0.1.4.dmg">🖥️ Download for Mac</a> · <a href="https://github.com/volcengine/MineContext/releases/download/0.1.4/MineContext-0.1.4-setup.exe">💻 Download for Windows</a>
+<a href="https://github.com/volcengine/MineContext/releases/download/0.1.5/MineContext-0.1.5.dmg">🖥️ Download for Mac</a> · <a href="https://github.com/volcengine/MineContext/releases/download/0.1.5/MineContext-0.1.5-setup.exe">💻 Download for Windows</a>
 
 </div>
 
@@ -491,7 +491,7 @@ We will prioritize the expansion of Context Sources according to the following p
 ## MineContext vs Dayflow
 
 - 💡 Richer, Proactive Insights:
-  ineContext delivers a more diverse range of automated, intelligent content—including concise summaries, actionable todos, and contextual tips—going beyond basic activity tracking. DayFlow primarily focuses on logging user activity.
+  MineContext delivers a more diverse range of automated, intelligent content—including concise summaries, actionable todos, and contextual tips—going beyond basic activity tracking. DayFlow primarily focuses on logging user activity.
 - 🧠 Context-Aware Q&A & Creation:
   MineContext enables you to ask questions and generate new content based on your captured context, unlocking wider application scenarios like content drafting and project planning. DayFlow is limited to passive activity recording and review.
 - ✨ Superior Activity Generation & Experience:
